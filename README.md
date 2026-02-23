@@ -5,7 +5,6 @@
 [![Linux Kernel](https://img.shields.io/badge/Kernel-Linux-FCC624?style=for-the-badge&logo=linux)](https://www.kernel.org/)
 [![C](https://img.shields.io/badge/Language-C-A8B9CC?style=for-the-badge&logo=c)](https://en.cppreference.com/w/c)
 [![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)](https://github.com/duongdoandanghoc/He-Dieu-Hanh-Nhung)
-[![License: GPL](https://img.shields.io/badge/License-GPL-blue.svg?style=for-the-badge)](LICENSE)
 
 ## 🌟 Giới thiệu
 
@@ -96,12 +95,6 @@ This project showcases advanced skills in C programming, Linux kernel internals,
 
 Mọi ý tưởng đóng góp về tối ưu hóa bộ nhớ hoặc thêm tính năng hỗ trợ hệ thống tệp ảo đều được hoan nghênh. Vui lòng gửi Pull Request hoặc tạo Issue.
 
-## 📄 Giấy phép
-
-Dự án này được phát hành dưới Giấy phép GPL.
-
 ---
-
-*Tài liệu này được soạn thảo bởi **Manus AI** vào ngày 23 tháng 2 năm 2026.*
 
 *Liên hệ tác giả: [duongdoandanghoc](https://github.com/duongdoandanghoc)*
