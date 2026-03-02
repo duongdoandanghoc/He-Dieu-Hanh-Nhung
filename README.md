@@ -8,6 +8,8 @@
 
 ## 🌟 Giới thiệu
 
+Dự án đã được hoàn thành vào giữa năm 2025, repo này để công khai mã nguồn
+
 Dự án này tập trung vào việc phát triển một **Kernel Module** cho hệ điều hành Linux, cụ thể là xây dựng một **Virtual RAM Disk**. Đây là một thiết bị lưu trữ ảo hoạt động trực tiếp trên bộ nhớ RAM, cho phép truy cập dữ liệu với tốc độ cực cao. 
 
 Khi mô-đun được tải, người dùng có thể tương tác với thiết bị thông qua `/dev/asgn1`. Thiết bị tự động quản lý danh sách các trang bộ nhớ, phân bổ thêm dung lượng theo yêu cầu khi thực hiện thao tác ghi. Dự án minh họa các khái niệm cốt lõi trong lập trình hệ thống và hệ điều hành nhúng như quản lý bộ nhớ, xử lý thiết bị ký tự (character devices), và giao tiếp giữa không gian người dùng (user space) và không gian nhân (kernel space).
